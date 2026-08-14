@@ -81,7 +81,7 @@ The user interface is built on **Streamlit** with custom CSS styling to deliver 
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Clone the repository:**
    ```bash
