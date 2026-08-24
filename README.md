@@ -7,7 +7,6 @@ BusinessIQ is a cutting-edge, multi-modal AI platform built to revolutionize how
 ---
 
 ## 🎥 Demo Vedio / How it works
-Watch this quick video demonstrating how BusinessIQ works: 
 https://github.com/user-attachments/assets/a5067d8a-b4b0-4bd8-929e-d726c204a152
 
 ---
